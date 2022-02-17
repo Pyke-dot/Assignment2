@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Assignment2</string>
+    <string name="item_name">Product Type</string>
+    <string name="buy">Buy</string>
+    <string name="Manager">Manager</string>
+    <string name="subtotal">Total</string>
+    <string name="numberPickerText"> </string>
+    <string name="history">History</string>
+
+
+    <string name="yes">OK</string>
+    <string name="no" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="restock_text">Enter New Quantity</string>
+    <string name="restock">Restock</string>
+</resources>
